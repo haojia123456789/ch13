@@ -6,7 +6,7 @@ public class Cata {
     private String name;
     private int parent;
 
-
+   private Map<String> maps;
 
 }
 
