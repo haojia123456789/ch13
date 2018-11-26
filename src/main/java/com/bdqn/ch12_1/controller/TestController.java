@@ -8,4 +8,8 @@ public class TestController {
         System.out.println("hello");
         return "hello";
     }
+    public String aa(){
+        System.out.println("hello");
+        return "aa";
+    }
 }
